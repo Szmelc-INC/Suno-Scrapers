@@ -4,7 +4,8 @@ Scrape the shit out of suno.
 # Contents:
 ### 1. `song-downloader.zsh` 
 > A simple, reliable way for downloading songs from suno in CLI. (uses https://sunodownload.io) \
-> Dependencies: `curl`, `wl-paste` (if wanting to use it with just a command with no params (copy URL from clipboard)
+> Dependencies: `curl`, `wl-paste` (if wanting to use it with just a command with no params (copy URL from clipboard) \
+> Setup: Add `source song-downloader.zsh` to your `.zshrc` / Command: `suno`
 ```
 # ========= [ DOWNLOADING ] =========
 > [DIR]: [/home/silverx/Music/AlgoRytmy/DOWNLOADS]
